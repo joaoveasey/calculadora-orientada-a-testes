@@ -1,0 +1,14 @@
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\bin\Debug\net6.0\New Talents - Testes.exe
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\bin\Debug\net6.0\New Talents - Testes.deps.json
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\bin\Debug\net6.0\New Talents - Testes.runtimeconfig.json
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\bin\Debug\net6.0\New Talents - Testes.dll
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\bin\Debug\net6.0\New Talents - Testes.pdb
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\New Talents - Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\New Talents - Testes.AssemblyInfoInputs.cache
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\New Talents - Testes.AssemblyInfo.cs
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\New Talents - Testes.csproj.CoreCompileInputs.cache
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\New Talents - Testes.dll
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\refint\New Talents - Testes.dll
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\New Talents - Testes.pdb
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\New Talents - Testes.genruntimeconfig.cache
+C:\Users\jovep\OneDrive\Área de Trabalho\CURSOS\dio\New Talents\New Talents - Testes\obj\Debug\net6.0\ref\New Talents - Testes.dll
